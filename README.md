@@ -8,6 +8,7 @@ Transliterate to your desired language while typing on any app
 
 # Installation:
 `git clone https://github.com/yashasnadigsyn/transliterate-sh`
+
 `sh setup.sh`
 
 # How to use:
